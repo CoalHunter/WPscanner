@@ -1,8 +1,12 @@
 name: Daily Wpscanner Update
-
 on:
   schedule:
-    - cron: '30 9 * * 1-5' # 16:30 WIB, Senin - Jumat
+    # Jadwal 1: Setelah Sesi 1 IDX (12:30 WIB / 05:30 UTC)
+    - cron: '30 5 * * 1-5'
+    
+    # Jadwal 2: Setelah Penutupan Market IDX (16:30 WIB / 09:30 UTC)
+    - cron: '30 9 * * 1-5'
+    
   workflow_dispatch:
 
 jobs:
@@ -10,29 +14,28 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Run Screener Engine
-      run: |
-        python py-engine/screener.py
+      - name: Run Screener Engine
+        run: |
+          python py-engine/screener.py
 
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add data.json
-        git diff --staged --quiet || git commit -m "chore: update data.json - $(date +'%Y-%m-%d %H:%M:%S')"
-        git push
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data.json
+          git diff --staged --quiet || git commit -m "chore: update data.json - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
