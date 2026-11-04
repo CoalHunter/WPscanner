@@ -1,5 +1,5 @@
 {
-    "scan_time": "2026-11-04 19:51:15",
+    "scan_time": "2026-11-04 20:11:49",
     "stats": {
         "recommended": 2,
         "not_recommended": 13,
@@ -9,7 +9,7 @@
         {
             "ticker": "BBCA",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:50:56",
+            "last_updated": "2026-11-04 20:11:31",
             "name": "Bank Central Asia Tbk",
             "price": 4930.0,
             "pbv": 2.14,
@@ -58,7 +58,7 @@
         {
             "ticker": "BBRI",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:50:57",
+            "last_updated": "2026-11-04 20:11:32",
             "name": "Bank Rakyat Indonesia (Persero)",
             "price": 2690.0,
             "pbv": 1.26,
@@ -104,7 +104,7 @@
         {
             "ticker": "BMRI",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:50:58",
+            "last_updated": "2026-11-04 20:11:33",
             "name": "Bank Mandiri (Persero) Tbk",
             "price": 3600.0,
             "pbv": 1.14,
@@ -148,7 +148,7 @@
         {
             "ticker": "BBNI",
             "status": "recommended",
-            "last_updated": "2026-11-04 19:50:59",
+            "last_updated": "2026-11-04 20:11:34",
             "name": "Bank Negara Indonesia  (Persero",
             "price": 3170.0,
             "pbv": 0.7,
@@ -189,7 +189,7 @@
         {
             "ticker": "ADRO",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:00",
+            "last_updated": "2026-11-04 20:11:35",
             "name": "Alamtri Resources Indonesia Tbk",
             "price": 2350.0,
             "pbv": 999.0,
@@ -239,7 +239,7 @@
         {
             "ticker": "PTBA",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:01",
+            "last_updated": "2026-11-04 20:11:36",
             "name": "Bukit Asam (Persero) Tbk.",
             "price": 3020.0,
             "pbv": 1.28,
@@ -284,7 +284,7 @@
         {
             "ticker": "ITMG",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:02",
+            "last_updated": "2026-11-04 20:11:36",
             "name": "Indo Tambangraya Megah Tbk",
             "price": 23900.0,
             "pbv": 999.0,
@@ -329,7 +329,7 @@
         {
             "ticker": "PGAS",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:02",
+            "last_updated": "2026-11-04 20:11:37",
             "name": "Perusahaan Gas Negara (Persero)",
             "price": 1370.0,
             "pbv": 999.0,
@@ -374,7 +374,7 @@
         {
             "ticker": "MEDC",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:03",
+            "last_updated": "2026-11-04 20:11:38",
             "name": "Medco Energi Internasional Tbk.",
             "price": 1240.0,
             "pbv": 999.0,
@@ -427,7 +427,7 @@
         {
             "ticker": "TLKM",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:04",
+            "last_updated": "2026-11-04 20:11:39",
             "name": "Telkom Indonesia (Persero) Tbk.",
             "price": 1885.0,
             "pbv": 1.52,
@@ -474,7 +474,7 @@
         {
             "ticker": "ISAT",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:05",
+            "last_updated": "2026-11-04 20:11:40",
             "name": "Indosat Tbk",
             "price": 1360.0,
             "pbv": 1.16,
@@ -521,19 +521,19 @@
         {
             "ticker": "EXCL",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:06",
+            "last_updated": "2026-11-04 20:11:41",
             "fail_reason": "Likuiditas rendah (Rp 21.6M/hari)"
         },
         {
             "ticker": "JSMR",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:07",
+            "last_updated": "2026-11-04 20:11:41",
             "fail_reason": "Likuiditas rendah (Rp 21.8M/hari)"
         },
         {
             "ticker": "ICBP",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:08",
+            "last_updated": "2026-11-04 20:11:42",
             "name": "Indofood CBP Sukses Makmur Tbk.",
             "price": 5925.0,
             "pbv": 1.25,
@@ -578,7 +578,7 @@
         {
             "ticker": "INDF",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:09",
+            "last_updated": "2026-11-04 20:11:43",
             "name": "Indofood Sukses Makmur Tbk",
             "price": 6600.0,
             "pbv": 0.73,
@@ -622,19 +622,19 @@
         {
             "ticker": "MYOR",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:10",
+            "last_updated": "2026-11-04 20:11:44",
             "fail_reason": "Likuiditas rendah (Rp 11.9M/hari)"
         },
         {
             "ticker": "UNVR",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:10",
+            "last_updated": "2026-11-04 20:11:44",
             "fail_reason": "Likuiditas rendah (Rp 38.5M/hari)"
         },
         {
             "ticker": "ASII",
             "status": "recommended",
-            "last_updated": "2026-11-04 19:51:11",
+            "last_updated": "2026-11-04 20:11:45",
             "name": "Astra International Tbk",
             "price": 4900.0,
             "pbv": 0.82,
@@ -675,7 +675,7 @@
         {
             "ticker": "UNTR",
             "status": "not_recommended",
-            "last_updated": "2026-11-04 19:51:12",
+            "last_updated": "2026-11-04 20:11:46",
             "name": "United Tractors Tbk",
             "price": 23150.0,
             "pbv": 0.81,
@@ -721,25 +721,25 @@
         {
             "ticker": "SMGR",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:13",
+            "last_updated": "2026-11-04 20:11:47",
             "fail_reason": "Market cap terlalu kecil (Rp 9.0T)"
         },
         {
             "ticker": "BSDE",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:13",
+            "last_updated": "2026-11-04 20:11:47",
             "fail_reason": "Market cap terlalu kecil (Rp 9.5T)"
         },
         {
             "ticker": "CTRA",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:14",
+            "last_updated": "2026-11-04 20:11:48",
             "fail_reason": "Market cap terlalu kecil (Rp 9.1T)"
         },
         {
             "ticker": "SMRA",
             "status": "failed",
-            "last_updated": "2026-11-04 19:51:14",
+            "last_updated": "2026-11-04 20:11:48",
             "fail_reason": "Market cap terlalu kecil (Rp 4.0T)"
         }
     ]
