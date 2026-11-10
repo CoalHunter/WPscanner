@@ -11,7 +11,7 @@ TICKERS = [
     'BBCA.JK', 'BBRI.JK', 'BMRI.JK', 'BBNI.JK',
     
     # --- SEKTOR PERTAMBANGAN & ENERGI ---
-    'ADRO.JK', 'PTBA.JK', 'ITMG.JK', 'PGAS.JK', 'MEDC.JK',
+    'ADRO.JK', 'PTBA.JK', 'ITMG.JK', 'PGAS.JK', 'MEDC.JK', 'BSSR.JK',
     
     # --- SEKTOR INFRASTRUKTUR & TELEKOMUNIKASI ---
     'TLKM.JK', 'ISAT.JK', 'EXCL.JK', 'JSMR.JK',
