@@ -1,33 +1,33 @@
 {
-    "scan_time": "2026-11-20 01:32:16",
+    "scan_time": "2026-11-20 21:16:25",
     "stats": {
         "recommended": 0,
-        "not_recommended": 15,
-        "failed": 10
+        "not_recommended": 14,
+        "failed": 11
     },
     "stocks": [
         {
             "ticker": "BBCA",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:48",
+            "last_updated": "2026-11-20 21:15:59",
             "name": "Bank Central Asia Tbk",
-            "price": 5650.0,
-            "pbv": 2.45,
-            "per": 11.7,
-            "dividend_yield_current": 6.63,
+            "price": 5550.0,
+            "pbv": 2.41,
+            "per": 11.49,
+            "dividend_yield_current": 6.74,
             "dividend_yield": 6.34,
             "payout_ratio": 78.9,
             "category": "Deep Value & Re-rating",
             "buy_zone": 4977.0,
             "target_sell": 2768.63,
             "capital_gain_potential": -44.4,
-            "stop_loss": 4802.5,
+            "stop_loss": 4717.5,
             "accumulation_signal": true,
             "div_history": [
                 {
                     "year": 2026,
                     "dps": 326.0,
-                    "yield": 5.18
+                    "yield": 5.19
                 },
                 {
                     "year": 2025,
@@ -58,19 +58,19 @@
         {
             "ticker": "BBRI",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:50",
+            "last_updated": "2026-11-20 21:16:01",
             "name": "Bank Rakyat Indonesia (Persero)",
-            "price": 3090.0,
+            "price": 3080.0,
             "pbv": 1.37,
-            "per": 7.32,
-            "dividend_yield_current": 13.75,
+            "per": 7.3,
+            "dividend_yield_current": 13.53,
             "dividend_yield": 10.73,
             "payout_ratio": 82.0,
             "category": "Deep Value & Re-rating",
             "buy_zone": 2583.0,
             "target_sell": 2698.75,
             "capital_gain_potential": 4.5,
-            "stop_loss": 2626.5,
+            "stop_loss": 2618.0,
             "accumulation_signal": false,
             "div_history": [
                 {
@@ -104,25 +104,25 @@
         {
             "ticker": "BMRI",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:51",
+            "last_updated": "2026-11-20 21:16:02",
             "name": "Bank Mandiri (Persero) Tbk",
-            "price": 3910.0,
-            "pbv": 1.24,
-            "per": 5.69,
-            "dividend_yield_current": 13.85,
+            "price": 3890.0,
+            "pbv": 1.23,
+            "per": 5.66,
+            "dividend_yield_current": 13.89,
             "dividend_yield": 15.02,
             "payout_ratio": 79.0,
             "category": "Deep Value & Re-rating",
             "buy_zone": 3360.0,
             "target_sell": 3780.53,
             "capital_gain_potential": 12.5,
-            "stop_loss": 3323.5,
+            "stop_loss": 3306.5,
             "accumulation_signal": false,
             "div_history": [
                 {
                     "year": 2026,
                     "dps": 542.96,
-                    "yield": 13.01
+                    "yield": 13.02
                 },
                 {
                     "year": 2025,
@@ -149,19 +149,19 @@
         {
             "ticker": "BBNI",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:52",
+            "last_updated": "2026-11-20 21:16:03",
             "name": "Bank Negara Indonesia  (Persero",
-            "price": 3580.0,
-            "pbv": 0.79,
-            "per": 6.35,
-            "dividend_yield_current": 9.79,
+            "price": 3560.0,
+            "pbv": 0.78,
+            "per": 6.31,
+            "dividend_yield_current": 9.76,
             "dividend_yield": 12.17,
             "payout_ratio": 62.0,
             "category": "Deep Value & Re-rating",
             "buy_zone": 2971.5,
             "target_sell": 5469.64,
             "capital_gain_potential": 84.1,
-            "stop_loss": 3043.0,
+            "stop_loss": 3026.0,
             "accumulation_signal": false,
             "div_history": [
                 {
@@ -193,12 +193,12 @@
         {
             "ticker": "ADRO",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:54",
+            "last_updated": "2026-11-20 21:16:05",
             "name": "Alamtri Resources Indonesia Tbk",
             "price": 2320.0,
             "pbv": 999.0,
             "per": 5.85,
-            "dividend_yield_current": 10.02,
+            "dividend_yield_current": 10.19,
             "dividend_yield": 13.16,
             "payout_ratio": 69.2,
             "category": "Deep Value & Re-rating",
@@ -244,12 +244,12 @@
         {
             "ticker": "ANTM",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:55",
+            "last_updated": "2026-11-20 21:16:06",
             "name": "ANTAM (Persero) Tbk.",
             "price": 2610.0,
             "pbv": 1.58,
             "per": 7.05,
-            "dividend_yield_current": 7.98,
+            "dividend_yield_current": 8.05,
             "dividend_yield": 7.55,
             "payout_ratio": 56.7,
             "category": "Deep Value & Re-rating",
@@ -262,7 +262,7 @@
                 {
                     "year": 2026,
                     "dps": 209.99,
-                    "yield": 6.52
+                    "yield": 6.53
                 },
                 {
                     "year": 2025,
@@ -289,12 +289,12 @@
         {
             "ticker": "PTBA",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:56",
+            "last_updated": "2026-11-20 21:16:07",
             "name": "Bukit Asam (Persero) Tbk.",
             "price": 2980.0,
             "pbv": 1.27,
             "per": 5.78,
-            "dividend_yield_current": 3.8,
+            "dividend_yield_current": 3.84,
             "dividend_yield": 10.03,
             "payout_ratio": 22.2,
             "category": "Deep Value & Re-rating",
@@ -334,65 +334,26 @@
         },
         {
             "ticker": "ITMG",
-            "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:57",
-            "name": "Indo Tambangraya Megah Tbk",
-            "price": 24200.0,
-            "pbv": 999.0,
-            "per": 7.01,
-            "dividend_yield_current": 7.04,
-            "dividend_yield": 9.42,
-            "payout_ratio": 52.0,
-            "category": "Deep Value & Re-rating",
-            "buy_zone": 21089.62,
-            "target_sell": 24200.0,
-            "capital_gain_potential": 14.7,
-            "stop_loss": 20570.0,
-            "accumulation_signal": true,
-            "div_history": [
-                {
-                    "year": 2026,
-                    "dps": 992.0,
-                    "yield": 4.11
-                },
-                {
-                    "year": 2025,
-                    "dps": 2983.0,
-                    "yield": 14.22
-                },
-                {
-                    "year": 2024,
-                    "dps": 2975.0,
-                    "yield": 14.11
-                }
-            ],
-            "avg_dps_3y": 1987.5,
-            "valuation_label": "Mahal",
-            "valuation_key": "valuation_overvalued",
-            "valuation_color": "#dc2626",
-            "exit_rule": "Jual bertahap saat harga mendekati Rp 24,200.0 (PBV 1.2x) atau jika fundamental rusak.",
-            "reasons": [
-                "PBV ≥ 0.9x",
-                "Dividen tidak konsisten"
-            ],
-            "fail_reason": "Tidak memenuhi kriteria: PBV ≥ 0.9x, Dividen tidak konsisten"
+            "status": "failed",
+            "last_updated": "2026-11-20 21:16:08",
+            "fail_reason": "Likuiditas rendah (Rp 47.4M/hari)"
         },
         {
             "ticker": "PGAS",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:31:59",
+            "last_updated": "2026-11-20 21:16:09",
             "name": "Perusahaan Gas Negara (Persero)",
-            "price": 1560.0,
+            "price": 1535.0,
             "pbv": 999.0,
-            "per": 8.07,
-            "dividend_yield_current": 8.13,
+            "per": 7.95,
+            "dividend_yield_current": 8.05,
             "dividend_yield": 13.02,
             "payout_ratio": 66.5,
             "category": "Deep Value & Re-rating",
             "buy_zone": 1181.25,
-            "target_sell": 1560.0,
-            "capital_gain_potential": 32.1,
-            "stop_loss": 1326.0,
+            "target_sell": 1535.0,
+            "capital_gain_potential": 29.9,
+            "stop_loss": 1304.75,
             "accumulation_signal": true,
             "div_history": [
                 {
@@ -415,7 +376,7 @@
             "valuation_label": "Mahal",
             "valuation_key": "valuation_overvalued",
             "valuation_color": "#dc2626",
-            "exit_rule": "Jual bertahap saat harga mendekati Rp 1,560.0 (PBV 1.2x) atau jika fundamental rusak.",
+            "exit_rule": "Jual bertahap saat harga mendekati Rp 1,535.0 (PBV 1.2x) atau jika fundamental rusak.",
             "reasons": [
                 "PBV ≥ 0.9x",
                 "Dividen tidak konsisten"
@@ -425,19 +386,19 @@
         {
             "ticker": "MEDC",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:32:00",
+            "last_updated": "2026-11-20 21:16:10",
             "name": "Medco Energi Internasional Tbk.",
-            "price": 1150.0,
+            "price": 1155.0,
             "pbv": 999.0,
-            "per": 4.98,
-            "dividend_yield_current": 5.54,
+            "per": 5.0,
+            "dividend_yield_current": 5.61,
             "dividend_yield": 4.06,
             "payout_ratio": 26.1,
             "category": "Deep Value & Re-rating",
             "buy_zone": 1055.25,
-            "target_sell": 1150.0,
-            "capital_gain_potential": 9.0,
-            "stop_loss": 977.5,
+            "target_sell": 1155.0,
+            "capital_gain_potential": 9.5,
+            "stop_loss": 981.75,
             "accumulation_signal": false,
             "div_history": [
                 {
@@ -465,7 +426,7 @@
             "valuation_label": "Mahal",
             "valuation_key": "valuation_overvalued",
             "valuation_color": "#dc2626",
-            "exit_rule": "Jual bertahap saat harga mendekati Rp 1,150.0 (PBV 1.2x) atau jika fundamental rusak.",
+            "exit_rule": "Jual bertahap saat harga mendekati Rp 1,155.0 (PBV 1.2x) atau jika fundamental rusak.",
             "reasons": [
                 "PBV ≥ 0.9x",
                 "Dividen di area beli < 5% (4.06%)",
@@ -478,31 +439,31 @@
         {
             "ticker": "BSSR",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:02",
-            "fail_reason": "Likuiditas rendah (Rp 6.2M/hari)"
+            "last_updated": "2026-11-20 21:16:11",
+            "fail_reason": "Likuiditas rendah (Rp 5.2M/hari)"
         },
         {
             "ticker": "TLKM",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:32:02",
+            "last_updated": "2026-11-20 21:16:12",
             "name": "Telkom Indonesia (Persero) Tbk.",
-            "price": 2120.0,
-            "pbv": 1.71,
-            "per": 12.99,
-            "dividend_yield_current": 10.38,
+            "price": 2070.0,
+            "pbv": 1.67,
+            "per": 12.69,
+            "dividend_yield_current": 10.53,
             "dividend_yield": 11.72,
             "payout_ratio": 130.7,
             "category": "Deep Value & Re-rating",
             "buy_zone": 1858.5,
             "target_sell": 1490.39,
             "capital_gain_potential": -19.8,
-            "stop_loss": 1802.0,
+            "stop_loss": 1759.5,
             "accumulation_signal": true,
             "div_history": [
                 {
                     "year": 2026,
                     "dps": 223.17,
-                    "yield": 8.3
+                    "yield": 8.31
                 },
                 {
                     "year": 2025,
@@ -530,25 +491,25 @@
         {
             "ticker": "ISAT",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:32:04",
+            "last_updated": "2026-11-20 21:16:14",
             "name": "Indosat Tbk",
-            "price": 1395.0,
-            "pbv": 1.19,
-            "per": 6.57,
-            "dividend_yield_current": 7.42,
+            "price": 1380.0,
+            "pbv": 1.18,
+            "per": 6.5,
+            "dividend_yield_current": 7.96,
             "dividend_yield": 7.25,
             "payout_ratio": 52.3,
             "category": "Deep Value & Re-rating",
             "buy_zone": 1344.0,
             "target_sell": 1401.4,
             "capital_gain_potential": 4.3,
-            "stop_loss": 1185.75,
+            "stop_loss": 1173.0,
             "accumulation_signal": false,
             "div_history": [
                 {
                     "year": 2026,
                     "dps": 111.0,
-                    "yield": 5.46
+                    "yield": 5.48
                 },
                 {
                     "year": 2025,
@@ -570,32 +531,31 @@
                 "PBV ≥ 0.9x",
                 "Laba anjlok",
                 "Utang tinggi",
-                "Belum di area akumulasi",
-                "Volume belum ekspansi"
+                "Belum di area akumulasi"
             ],
-            "fail_reason": "Tidak memenuhi kriteria: PBV ≥ 0.9x, Laba anjlok, Utang tinggi, Belum di area akumulasi, Volume belum ekspansi"
+            "fail_reason": "Tidak memenuhi kriteria: PBV ≥ 0.9x, Laba anjlok, Utang tinggi, Belum di area akumulasi"
         },
         {
             "ticker": "EXCL",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:05",
-            "fail_reason": "Likuiditas rendah (Rp 35.8M/hari)"
+            "last_updated": "2026-11-20 21:16:15",
+            "fail_reason": "Likuiditas rendah (Rp 38.8M/hari)"
         },
         {
             "ticker": "JSMR",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:06",
-            "fail_reason": "Likuiditas rendah (Rp 20.5M/hari)"
+            "last_updated": "2026-11-20 21:16:15",
+            "fail_reason": "Likuiditas rendah (Rp 19.2M/hari)"
         },
         {
             "ticker": "ICBP",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:32:07",
+            "last_updated": "2026-11-20 21:16:16",
             "name": "Indofood CBP Sukses Makmur Tbk.",
             "price": 6950.0,
             "pbv": 1.46,
             "per": 9.79,
-            "dividend_yield_current": 3.83,
+            "dividend_yield_current": 3.81,
             "dividend_yield": 4.54,
             "payout_ratio": 37.3,
             "category": "Deep Value & Re-rating",
@@ -635,43 +595,43 @@
         {
             "ticker": "INDF",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:08",
-            "fail_reason": "Likuiditas rendah (Rp 49.5M/hari)"
+            "last_updated": "2026-11-20 21:16:17",
+            "fail_reason": "Likuiditas rendah (Rp 46.0M/hari)"
         },
         {
             "ticker": "MYOR",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:09",
-            "fail_reason": "Likuiditas rendah (Rp 10.6M/hari)"
+            "last_updated": "2026-11-20 21:16:18",
+            "fail_reason": "Likuiditas rendah (Rp 10.0M/hari)"
         },
         {
             "ticker": "UNVR",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:10",
-            "fail_reason": "Likuiditas rendah (Rp 44.9M/hari)"
+            "last_updated": "2026-11-20 21:16:19",
+            "fail_reason": "Likuiditas rendah (Rp 42.0M/hari)"
         },
         {
             "ticker": "ASII",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:32:10",
+            "last_updated": "2026-11-20 21:16:20",
             "name": "Astra International Tbk",
-            "price": 5375.0,
-            "pbv": 0.9,
-            "per": 7.21,
-            "dividend_yield_current": 7.09,
+            "price": 5300.0,
+            "pbv": 0.88,
+            "per": 7.1,
+            "dividend_yield_current": 7.26,
             "dividend_yield": 9.67,
             "payout_ratio": 52.3,
             "category": "Deep Value & Re-rating",
             "buy_zone": 4116.0,
             "target_sell": 7199.32,
             "capital_gain_potential": 74.9,
-            "stop_loss": 4568.75,
+            "stop_loss": 4505.0,
             "accumulation_signal": false,
             "div_history": [
                 {
                     "year": 2026,
                     "dps": 390.0,
-                    "yield": 7.38
+                    "yield": 7.37
                 },
                 {
                     "year": 2025,
@@ -697,19 +657,19 @@
         {
             "ticker": "UNTR",
             "status": "not_recommended",
-            "last_updated": "2026-11-20 01:32:11",
+            "last_updated": "2026-11-20 21:16:21",
             "name": "United Tractors Tbk",
-            "price": 24000.0,
-            "pbv": 0.84,
-            "per": 10.93,
-            "dividend_yield_current": 3.59,
+            "price": 23900.0,
+            "pbv": 0.83,
+            "per": 10.89,
+            "dividend_yield_current": 3.58,
             "dividend_yield": 8.62,
             "payout_ratio": 95.3,
             "category": "Deep Value & Re-rating",
             "buy_zone": 20744.59,
             "target_sell": 34489.8,
             "capital_gain_potential": 66.3,
-            "stop_loss": 20400.0,
+            "stop_loss": 20315.0,
             "accumulation_signal": false,
             "div_history": [
                 {
@@ -742,25 +702,25 @@
         {
             "ticker": "SMGR",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:13",
-            "fail_reason": "Likuiditas rendah (Rp 22.2M/hari)"
+            "last_updated": "2026-11-20 21:16:22",
+            "fail_reason": "Likuiditas rendah (Rp 21.3M/hari)"
         },
         {
             "ticker": "BSDE",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:13",
-            "fail_reason": "Market cap terlalu kecil (Rp 9.8T)"
+            "last_updated": "2026-11-20 21:16:23",
+            "fail_reason": "Market cap terlalu kecil (Rp 9.7T)"
         },
         {
             "ticker": "CTRA",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:14",
-            "fail_reason": "Market cap terlalu kecil (Rp 9.5T)"
+            "last_updated": "2026-11-20 21:16:24",
+            "fail_reason": "Market cap terlalu kecil (Rp 9.4T)"
         },
         {
             "ticker": "SMRA",
             "status": "failed",
-            "last_updated": "2026-11-20 01:32:15",
+            "last_updated": "2026-11-20 21:16:25",
             "fail_reason": "Market cap terlalu kecil (Rp 4.5T)"
         }
     ]
